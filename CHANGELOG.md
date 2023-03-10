@@ -540,7 +540,7 @@
 - Added support for [including other Taskfiles](https://taskfile.org/#/usage?id=including-other-taskfiles) (#98)
   - This should be considered experimental. For now, only including local files is supported, but support for including remote Taskfiles is being discussed. If you have any feedback, please comment on #98.
 - Task now have a dedicated documentation site: https://taskfile.org
-  - Thanks to [Docsify](https://docsify.js.org/) for making this pretty easy. To check the source code, just take a look at the [docs](https://github.com/go-task/task/tree/master/docs) directory of this repository. Contributions to the documentation is really appreciated.
+  - Thanks to [Docsify](https://docsify.js.org/) for making this pretty easy. To check the source code, just take a look at the [docs](https://github.com/go-task/task/tree/main/docs) directory of this repository. Contributions to the documentation is really appreciated.
 
 ## v2.1.1 - 2018-09-17
 
