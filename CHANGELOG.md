@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Added task location data to the `--json` flag output ([#1056](https://github.com/go-task/task/pull/1056) by @pd93)
+
 ## v3.22.0 - 2023-03-10
 
 - Add a brand new `--global` (`-g`) flag that will run a Taskfile from your
